@@ -1,0 +1,9 @@
+c:\users\tempest\documents\visual studio 2015\Projects\My First Project\My First Project\bin\Debug\My First Project.exe.config
+c:\users\tempest\documents\visual studio 2015\Projects\My First Project\My First Project\bin\Debug\My First Project.exe
+c:\users\tempest\documents\visual studio 2015\Projects\My First Project\My First Project\bin\Debug\My First Project.pdb
+c:\users\tempest\documents\visual studio 2015\Projects\My First Project\My First Project\obj\Debug\My First Project.csprojResolveAssemblyReference.cache
+c:\users\tempest\documents\visual studio 2015\Projects\My First Project\My First Project\obj\Debug\My_First_Project.languageTranslator.resources
+c:\users\tempest\documents\visual studio 2015\Projects\My First Project\My First Project\obj\Debug\My_First_Project.Properties.Resources.resources
+c:\users\tempest\documents\visual studio 2015\Projects\My First Project\My First Project\obj\Debug\My First Project.csproj.GenerateResource.Cache
+c:\users\tempest\documents\visual studio 2015\Projects\My First Project\My First Project\obj\Debug\My First Project.exe
+c:\users\tempest\documents\visual studio 2015\Projects\My First Project\My First Project\obj\Debug\My First Project.pdb
