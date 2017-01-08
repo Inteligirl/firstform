@@ -6,3 +6,5 @@ This programming exercise was from the text book. Really just this was just abou
 
 Exercise:
 Create an application that places text in a label field and begin to use event handlers.
+
+![alt text](https://github.com/Inteligirl/firstform/blob/master/form1-2.png "Language Translator Application")
